@@ -85,3 +85,23 @@ header{
     text-align:center;
 }
 
+@media(max-width:900px){
+
+    .hero{
+        grid-template-columns:1fr;
+    }
+
+    .hero-text{
+        text-align:center;
+    }
+
+    .hero-text h1{
+        font-size:3rem;
+    }
+
+    nav{
+        gap:15px;
+        font-size:0.9rem;
+    }
+
+}
