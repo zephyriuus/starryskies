@@ -10,6 +10,10 @@ html, body {
     overflow: hidden;
 }
 
+body {
+    position: relative;
+}
+
 .bg-video {
     position: fixed;
     top: 0;
@@ -27,5 +31,6 @@ html, body {
     justify-content: center;
     align-items: center;
     color: white;
-    font-size: 3rem;
+    font-size: 2rem;
+    text-align: center;
 }
