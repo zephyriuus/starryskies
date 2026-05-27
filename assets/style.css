@@ -68,7 +68,7 @@ header{
 
 .glass-box{
     width:90%;
-    max-width:500px;
+    max-width:1000dvh;
 
     padding:40px;
 
