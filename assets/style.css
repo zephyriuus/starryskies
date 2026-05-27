@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Jersey 20", sans-serif;
+}
+
+.fullscreen-img {
+    object-fit: cover;
+    height: 100%;
+    display: block;
+    position: absolute;
+    z-index: -1;
+}
